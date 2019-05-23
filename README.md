@@ -1,2 +1,2 @@
-# svn_scripts
-some svn useful scripts 
+# scripts
+a bounch of useful scripts written by me for some specific tasks
