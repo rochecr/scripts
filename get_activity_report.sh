@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 # rocastro
 
 for cluster in $(kubectl config get-contexts | awk 'NR>1 {print $1}'| grep -v '*' | xargs );
